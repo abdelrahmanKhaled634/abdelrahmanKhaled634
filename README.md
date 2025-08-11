@@ -11,7 +11,6 @@ We are **DevSparks** — a full-service web & mobile app development company wit
 From idea to launch, we design, develop, and maintain modern websites, web applications, and cross-platform mobile apps, always focusing on **exceptional user experience and business impact**.
 
 💼 **100+ Projects Completed**.
-
 🌍 **Serving clients worldwide** with a dedicated, skilled, and creative team.  
 🛠 **2 Months Free Post-Launch Support** & 24/7 Assistance.
 
